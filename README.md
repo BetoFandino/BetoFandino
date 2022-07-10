@@ -1,5 +1,5 @@
-### Hello strangers 👋
-### Electronic engineer, Python development and backend programmer
+![https://github.com/BetoFandino](https://github.com/BetoFandino/BetoFandino/blob/main/BeTo_Game.png)
+### Hello strangers 👋 Electronic engineer, Python development and backend programmer
 <!--
 **BetoFandino/BetoFandino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
