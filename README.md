@@ -14,17 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-i am a professional software developer and electronics engineer. although i am interested in videogame development 😄 and embedded programming my forte is backend programming with python and machine learning.
+I am a professional software developer and electronics engineer. My forte is backend programming and DevOps (more than a branch is a culture). I want to contribute to the community and continue to grow both in knowledge and professionally.
 
 
 ## Primary Skills:
-[![Python](https://img.shields.io/badge/Python-brightgreen?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
+[![Python](https://img.shields.io/badge/Python-0000FF?style=for-the-badge&logo=python&logoColor=white&labelColor=101010)]()
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=101010)]()
+[![Docker](https://img.shields.io/badge/Docker-00BFFF?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 </br>
 ## Secundary Skills:
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white&labelColor=101010)]()
+[![NestJS](https://img.shields.io/badge/NestJS-A52A2A?style=for-the-badge&logo=nestjs&logoColor=white&labelColor=101010)]()
 [![Node.JS](https://img.shields.io/badge/Node.JS-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=101010)]()
 
 And more...
